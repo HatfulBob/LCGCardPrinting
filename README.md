@@ -11,8 +11,11 @@ Credit to 5argon and coldtoes for templates and card back images.
 4. In the /outputs/ folder you will find your outputted cards as sheets as image files.
 
 Cards are automatically rearranged to work with back-to-back printing (at least how it works on my printer, it might be different on yours).
+
 Each outputted page holds 9 cards. Backs are automatically provided based on the input folder. Encounter card backs are not utilized, but can simply be manually assigned via copying and pasting the card back into the right 'input' folder, replacing its name with the front card's name, and appending a '2' to the end (replacing the 1).
+
 Mini-cards are placed in a template that 'converts' them to a regular-sized card. At some point, I would like to use a more optimized template to fit more mini-cards onto one page, but that's on the backburner currently.
+
 If you overload the input folders with a lot of images you may get an OutOfMemory exception. No solution has been found so far, just reduce the inputs at the moment. The output images are very large.
 
 The code is presented as-is. Card back images are copyrighted Fantasy Flight Games and this application is presented for usage of print and play content and custom content only.
