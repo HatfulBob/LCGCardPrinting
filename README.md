@@ -4,6 +4,7 @@ You must provide your own images with bleed.
 
 Credit to 5argon and coldtoes for templates and card back images.
 # How to use it
+0. Once you pull it, delete all .gitkeep files from each input folder.
 1. Place all your custom images into the respective folders for the correct game within the input folder (Arkham cards in 'arkham', LOTR LCG cards in 'lotr', Marvel Champions cards in 'marvel', any small mini-cards in 'minicards')
 2. Make sure all card images end with a 1 or a 2. A 1 represents the front of a card while a 2 represents the back of a card. For the front and back to be linked, the card's names must be identical except for the last character (the 1 or 2) ('a' or 'b' work also). If you do not provide a card back, it will be automatically assigned one based on the folder you put it in (player cards only)
 3. Run the sketch. Give it a few minutes. You know it will be done by the sketch automatically closing itself.
